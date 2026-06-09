@@ -63,22 +63,6 @@ VertexScalp is a mean-reversion scalper built around a Bollinger Band snap-back 
 - **[NEW]** ATR-Adaptive Stop Loss replacing fixed pip SL
 - Dashboard updated with new filter states
 
----
-
-## Backtesting Results
-
-All tests conducted on EURUSD, $100,000 demo account, 100% history quality.
-
-| Test | TF | Month | Filters | Trades | Win Rate | Profit Factor | Net Result | Max DD |
-|---|---|---|---|---|---|---|---|---|
-| Baseline | M5 | May 2025 | None | 93 | 45.2% | 0.68 | -$8,000 | 11.3% |
-| RR 1.5 | M5 | May 2025 | None | 83 | 31.3% | 0.71 | -$8,014 | 11.0% |
-| Baseline | M15 | May 2025 | None | 79 | 39.2% | 0.66 | -$8,009 | 11.2% |
-| ADX 28 | M15 | May 2025 | ADX | 7 | 28.6% | 0.39 | -$1,523 | 2.1% |
-| ADX 35 | M15 | May 2025 | ADX | 17 | 29.4% | 0.49 | -$1,800 | — |
-| ADX 35 | M15 | Feb 2025 | ADX | 22 | 45.5% | 0.81 | -$1,147 | 2.5% |
-
----
 
 ## Key Findings
 
